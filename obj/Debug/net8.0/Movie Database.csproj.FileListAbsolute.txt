@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\Movie Database\bin\Debug\net8.0\Movie Database.exe
+C:\Users\logan\source\repos\Movie Database\bin\Debug\net8.0\Movie Database.deps.json
+C:\Users\logan\source\repos\Movie Database\bin\Debug\net8.0\Movie Database.runtimeconfig.json
+C:\Users\logan\source\repos\Movie Database\bin\Debug\net8.0\Movie Database.dll
+C:\Users\logan\source\repos\Movie Database\bin\Debug\net8.0\Movie Database.pdb
+C:\Users\logan\source\repos\Movie Database\obj\Debug\net8.0\Movie Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\Movie Database\obj\Debug\net8.0\Movie Database.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\Movie Database\obj\Debug\net8.0\Movie Database.AssemblyInfo.cs
+C:\Users\logan\source\repos\Movie Database\obj\Debug\net8.0\Movie Database.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\Movie Database\obj\Debug\net8.0\Movie Database.dll
+C:\Users\logan\source\repos\Movie Database\obj\Debug\net8.0\refint\Movie Database.dll
+C:\Users\logan\source\repos\Movie Database\obj\Debug\net8.0\Movie Database.pdb
+C:\Users\logan\source\repos\Movie Database\obj\Debug\net8.0\Movie Database.genruntimeconfig.cache
+C:\Users\logan\source\repos\Movie Database\obj\Debug\net8.0\ref\Movie Database.dll
